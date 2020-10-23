@@ -214,7 +214,7 @@ color: rgb(255, 255, 255);</string>
      <string notr="true">font: 12pt &quot;Tahoma&quot;;</string>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>Salir</string>
     </property>
    </widget>
   </widget>

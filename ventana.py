@@ -119,7 +119,7 @@ class Ui_Ventana(object):
         self.lblApel.setText(_translate("Ventana", "DNI"))
         self.lblNombre.setText(_translate("Ventana", "APELLIDOS"))
         self.lblDNI.setText(_translate("Ventana", "NOMBRE"))
-        self.btnSair.setText(_translate("Ventana", "PushButton"))
+        self.btnSair.setText(_translate("Ventana", "Salir"))
         self.menuArchivo.setTitle(_translate("Ventana", "Archivo"))
         self.actionSalir.setText(_translate("Ventana", "Salir"))
         self.actionSalir.setShortcut(_translate("Ventana", "Ctrl+S"))
