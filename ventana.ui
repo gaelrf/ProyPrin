@@ -158,7 +158,7 @@ color: rgb(255, 255, 255);</string>
      <enum>Qt::Horizontal</enum>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEditDni">
+   <widget class="QLineEdit" name="editDni">
     <property name="geometry">
      <rect>
       <x>130</x>
@@ -168,7 +168,7 @@ color: rgb(255, 255, 255);</string>
      </rect>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEditApel">
+   <widget class="QLineEdit" name="editApel">
     <property name="geometry">
      <rect>
       <x>130</x>
@@ -178,7 +178,7 @@ color: rgb(255, 255, 255);</string>
      </rect>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEditNome">
+   <widget class="QLineEdit" name="editNome">
     <property name="geometry">
      <rect>
       <x>550</x>
